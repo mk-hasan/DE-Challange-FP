@@ -4,9 +4,10 @@ Project Structure
 
     - FactoryPal-Task
         - src
-            - DataFactory.py
-            - DBEngine.py
-            - ETLFactory.py
+            - consumer_client.py
+            - producer_client.py
+            - db_engine.py
+            - generate_report.py
         - report
             - template.html
         -resources
