@@ -1,0 +1,2305 @@
+[{
+    "time": 1624378574,
+    "product": 0,
+    "production": 0
+}, {
+    "time": 1624383671,
+    "product": 0,
+    "production": 15.685808348048699
+}, {
+    "time": 1624388726,
+    "product": 0,
+    "production": 43.736401832663475
+}, {
+    "time": 1624393550,
+    "product": 0,
+    "production": 56.0016246233206
+}, {
+    "time": 1624398766,
+    "product": 0,
+    "production": 76.74917239730053
+}, {
+    "time": 1624403621,
+    "product": 0,
+    "production": 104.86736408551175
+}, {
+    "time": 1624408589,
+    "product": 0,
+    "production": 118.76757939004109
+}, {
+    "time": 1624413618,
+    "product": 0,
+    "production": 140.67516557561854
+}, {
+    "time": 1624418600,
+    "product": 0,
+    "production": 163.7320111888701
+}, {
+    "time": 1624423701,
+    "product": 0,
+    "production": 183.731986910728
+}, {
+    "time": 1624428549,
+    "product": 0,
+    "production": 201.3494430831601
+}, {
+    "time": 1624433652,
+    "product": 0,
+    "production": 231.97963037580553
+}, {
+    "time": 1624438661,
+    "product": 0,
+    "production": 231.3073651253041
+}, {
+    "time": 1624443518,
+    "product": 0,
+    "production": 263.3527765145942
+}, {
+    "time": 1624448676,
+    "product": 0,
+    "production": 278.4972088654224
+}, {
+    "time": 1624453632,
+    "product": 0,
+    "production": 303.23867983535513
+}, {
+    "time": 1624458479,
+    "product": 0,
+    "production": 319.1937015292045
+}, {
+    "time": 1624463546,
+    "product": 0,
+    "production": 345.299436129832
+}, {
+    "time": 1624468469,
+    "product": 0,
+    "production": 361.99421000778227
+}, {
+    "time": 1624473535,
+    "product": 0,
+    "production": 376.6330506835106
+}, {
+    "time": 1624478777,
+    "product": 0,
+    "production": 398.6021177013178
+}, {
+    "time": 1624483647,
+    "product": 0,
+    "production": 416.2778230305771
+}, {
+    "time": 1624488643,
+    "product": 0,
+    "production": 440.6570259285689
+}, {
+    "time": 1624493526,
+    "product": 0,
+    "production": 458.58695983494516
+}, {
+    "time": 1624498616,
+    "product": 0,
+    "production": 479.0624715142376
+}, {
+    "time": 1624503386,
+    "product": 0,
+    "production": 498.1541642432392
+}, {
+    "time": 1624508580,
+    "product": 0,
+    "production": 515.6684832539697
+}, {
+    "time": 1624513536,
+    "product": 0,
+    "production": 547.6049894575235
+}, {
+    "time": 1624518670,
+    "product": 0,
+    "production": 552.3144899629522
+}, {
+    "time": 1624523538,
+    "product": 0,
+    "production": 571.2931720068511
+}, {
+    "time": 1624528687,
+    "product": 0,
+    "production": 600.7046999536387
+}, {
+    "time": 1624533782,
+    "product": 0,
+    "production": 622.0759008398032
+}, {
+    "time": 1624538613,
+    "product": 0,
+    "production": 629.8909628014598
+}, {
+    "time": 1624543605,
+    "product": 0,
+    "production": 654.2010534911011
+}, {
+    "time": 1624548566,
+    "product": 0,
+    "production": 680.3966326048908
+}, {
+    "time": 1624553586,
+    "product": 0,
+    "production": 706.1666762325503
+}, {
+    "time": 1624558616,
+    "product": 0,
+    "production": 714.7291725806971
+}, {
+    "time": 1624563678,
+    "product": 0,
+    "production": 745.5253766031769
+}, {
+    "time": 1624568728,
+    "product": 0,
+    "production": 771.0817040570494
+}, {
+    "time": 1624573703,
+    "product": 0,
+    "production": 775.9950635079231
+}, {
+    "time": 1624578648,
+    "product": 0,
+    "production": 802.1912659579061
+}, {
+    "time": 1624583599,
+    "product": 0,
+    "production": 822.6215677390305
+}, {
+    "time": 1624588596,
+    "product": 0,
+    "production": 828.3209610014819
+}, {
+    "time": 1624593801,
+    "product": 0,
+    "production": 855.2207018280815
+}, {
+    "time": 1624598694,
+    "product": 0,
+    "production": 888.0602926990149
+}, {
+    "time": 1624603533,
+    "product": 0,
+    "production": 904.7588859365173
+}, {
+    "time": 1624608687,
+    "product": 0,
+    "production": 930.7435183728456
+}, {
+    "time": 1624613489,
+    "product": 0,
+    "production": 941.8291782594297
+}, {
+    "time": 1624618598,
+    "product": 0,
+    "production": 945.5051062126687
+}, {
+    "time": 1624623699,
+    "product": 0,
+    "production": 979.5060451924512
+}, {
+    "time": 1624628538,
+    "product": 0,
+    "production": 1002.7311697224202
+}, {
+    "time": 1624633591,
+    "product": 0,
+    "production": 1024.6436475054506
+}, {
+    "time": 1624638768,
+    "product": 0,
+    "production": 1036.4244263189112
+}, {
+    "time": 1624643640,
+    "product": 0,
+    "production": 1065.8943495431022
+}, {
+    "time": 1624648582,
+    "product": 0,
+    "production": 1079.1705319289922
+}, {
+    "time": 1624653571,
+    "product": 0,
+    "production": 1092.3732989057596
+}, {
+    "time": 1624658607,
+    "product": 0,
+    "production": 1133.2775417061077
+}, {
+    "time": 1624663752,
+    "product": 0,
+    "production": 1128.0546474334624
+}, {
+    "time": 1624668707,
+    "product": 0,
+    "production": 1154.5724982446889
+}, {
+    "time": 1624673723,
+    "product": 0,
+    "production": 1183.6989360883458
+}, {
+    "time": 1624678524,
+    "product": 0,
+    "production": 1200.6804641576045
+}, {
+    "time": 1624683633,
+    "product": 0,
+    "production": 1220.28995455203
+}, {
+    "time": 1624688621,
+    "product": 0,
+    "production": 1233.1612062422864
+}, {
+    "time": 1624693638,
+    "product": 0,
+    "production": 1268.303992557352
+}, {
+    "time": 1624698660,
+    "product": 0,
+    "production": 1275.4917554393392
+}, {
+    "time": 1624703592,
+    "product": 0,
+    "production": 1299.6747424327007
+}, {
+    "time": 1624708642,
+    "product": 0,
+    "production": 1326.2115977852854
+}, {
+    "time": 1624713499,
+    "product": 0,
+    "production": 1346.5122517896232
+}, {
+    "time": 1624718792,
+    "product": 0,
+    "production": 1362.1215375219822
+}, {
+    "time": 1624723657,
+    "product": 0,
+    "production": 1375.763996828042
+}, {
+    "time": 1624728423,
+    "product": 0,
+    "production": 1401.4846168447132
+}, {
+    "time": 1624733719,
+    "product": 0,
+    "production": 1423.5341452272373
+}, {
+    "time": 1624738635,
+    "product": 0,
+    "production": 1446.3776377608565
+}, {
+    "time": 1624743600,
+    "product": 0,
+    "production": 1458.801357321697
+}, {
+    "time": 1624748782,
+    "product": 0,
+    "production": 1479.528347438309
+}, {
+    "time": 1624753729,
+    "product": 0,
+    "production": 1510.0253938845103
+}, {
+    "time": 1624758590,
+    "product": 0,
+    "production": 1517.6614468056214
+}, {
+    "time": 1624763641,
+    "product": 0,
+    "production": 1534.0242835559488
+}, {
+    "time": 1624768619,
+    "product": 0,
+    "production": 1556.7343917633511
+}, {
+    "time": 1624773521,
+    "product": 0,
+    "production": 1582.4053667722399
+}, {
+    "time": 1624778616,
+    "product": 0,
+    "production": 1595.681166653186
+}, {
+    "time": 1624783483,
+    "product": 0,
+    "production": 1611.7424488904944
+}, {
+    "time": 1624788601,
+    "product": 0,
+    "production": 1631.9291504230846
+}, {
+    "time": 1624793489,
+    "product": 0,
+    "production": 1660.6101533242836
+}, {
+    "time": 1624798441,
+    "product": 0,
+    "production": 1684.8753695855155
+}, {
+    "time": 1624803547,
+    "product": 0,
+    "production": 1688.5592518244366
+}, {
+    "time": 1624808590,
+    "product": 0,
+    "production": 1717.6895117949236
+}, {
+    "time": 1624813561,
+    "product": 0,
+    "production": 1742.0624946231565
+}, {
+    "time": 1624818511,
+    "product": 0,
+    "production": 1759.9333609471478
+}, {
+    "time": 1624823640,
+    "product": 0,
+    "production": 1785.5126138665166
+}, {
+    "time": 1624828614,
+    "product": 0,
+    "production": 1803.5622646638656
+}, {
+    "time": 1624833515,
+    "product": 0,
+    "production": 1820.0099811352654
+}, {
+    "time": 1624838553,
+    "product": 0,
+    "production": 1834.2488867558538
+}, {
+    "time": 1624843587,
+    "product": 0,
+    "production": 1850.5490938920768
+}, {
+    "time": 1624848550,
+    "product": 0,
+    "production": 1884.8094193130485
+}, {
+    "time": 1624853458,
+    "product": 0,
+    "production": 1899.9341659351264
+}, {
+    "time": 1624858527,
+    "product": 0,
+    "production": 1921.394912376358
+}, {
+    "time": 1624863512,
+    "product": 0,
+    "production": 1938.2112455971574
+}, {
+    "time": 1624868460,
+    "product": 0,
+    "production": 1963.0414784256038
+}, {
+    "time": 1624873500,
+    "product": 0,
+    "production": 1979.781842681427
+}, {
+    "time": 1624878604,
+    "product": 0,
+    "production": 1998.2388062885432
+}, {
+    "time": 1624883524,
+    "product": 0,
+    "production": 2016.6103935809062
+}, {
+    "time": 1624888613,
+    "product": 0,
+    "production": 2035.8445429661629
+}, {
+    "time": 1624893605,
+    "product": 0,
+    "production": 2055.28024292124
+}, {
+    "time": 1624898657,
+    "product": 0,
+    "production": 2075.026535055449
+}, {
+    "time": 1624903504,
+    "product": 0,
+    "production": 2092.672523660084
+}, {
+    "time": 1624908618,
+    "product": 0,
+    "production": 2123.9182471490517
+}, {
+    "time": 1624913722,
+    "product": 0,
+    "production": 2136.9889432526993
+}, {
+    "time": 1624918513,
+    "product": 0,
+    "production": 2158.825386542689
+}, {
+    "time": 1624923587,
+    "product": 0,
+    "production": 2182.6227379790917
+}, {
+    "time": 1624928682,
+    "product": 0,
+    "production": 2195.4707468752754
+}, {
+    "time": 1624933582,
+    "product": 0,
+    "production": 2224.872732175591
+}, {
+    "time": 1624938379,
+    "product": 0,
+    "production": 2241.650600930526
+}, {
+    "time": 1624943403,
+    "product": 0,
+    "production": 2251.912367280816
+}, {
+    "time": 1624948499,
+    "product": 0,
+    "production": 2283.536424954397
+}, {
+    "time": 1624953735,
+    "product": 0,
+    "production": 2300.5416827834847
+}, {
+    "time": 1624958550,
+    "product": 0,
+    "production": 2324.8095220762684
+}, {
+    "time": 1624963482,
+    "product": 0,
+    "production": 2341.191250161478
+}, {
+    "time": 1624968571,
+    "product": 0,
+    "production": 2353.5850186259995
+}, {
+    "time": 1624973545,
+    "product": 0,
+    "production": 2381.803733422326
+}, {
+    "time": 1624978550,
+    "product": 0,
+    "production": 2402.848923874422
+}, {
+    "time": 1624983643,
+    "product": 0,
+    "production": 2412.747138426885
+}, {
+    "time": 1624988649,
+    "product": 0,
+    "production": 2441.767691361335
+}, {
+    "time": 1624993631,
+    "product": 0,
+    "production": 2462.1773780044737
+}, {
+    "time": 1624998795,
+    "product": 0,
+    "production": 2478.745299289085
+}, {
+    "time": 1625003541,
+    "product": 0,
+    "production": 2493.9244595866667
+}, {
+    "time": 1625008591,
+    "product": 0,
+    "production": 2524.5696269125447
+}, {
+    "time": 1625013688,
+    "product": 0,
+    "production": 2542.330309680477
+}, {
+    "time": 1625018568,
+    "product": 0,
+    "production": 2559.8796124191376
+}, {
+    "time": 1625023627,
+    "product": 0,
+    "production": 2589.690663971586
+}, {
+    "time": 1625028635,
+    "product": 0,
+    "production": 2594.840962095436
+}, {
+    "time": 1625033613,
+    "product": 0,
+    "production": 2618.5139588428697
+}, {
+    "time": 1625038550,
+    "product": 0,
+    "production": 2628.4829219879084
+}, {
+    "time": 1625043555,
+    "product": 0,
+    "production": 2658.566581051194
+}, {
+    "time": 1625048513,
+    "product": 0,
+    "production": 2678.4149876645984
+}, {
+    "time": 1625053354,
+    "product": 0,
+    "production": 2693.3110119129565
+}, {
+    "time": 1625058626,
+    "product": 0,
+    "production": 2711.7096733024305
+}, {
+    "time": 1625063495,
+    "product": 0,
+    "production": 2741.302303917747
+}, {
+    "time": 1625068624,
+    "product": 0,
+    "production": 2758.68892175616
+}, {
+    "time": 1625073547,
+    "product": 0,
+    "production": 2779.9494199073665
+}, {
+    "time": 1625078524,
+    "product": 0,
+    "production": 2809.282333615775
+}, {
+    "time": 1625083508,
+    "product": 0,
+    "production": 2820.7677780427957
+}, {
+    "time": 1625088603,
+    "product": 0,
+    "production": 2839.6081941764155
+}, {
+    "time": 1625093567,
+    "product": 0,
+    "production": 2858.4046125358796
+}, {
+    "time": 1625098410,
+    "product": 0,
+    "production": 2875.5539989179733
+}, {
+    "time": 1625103568,
+    "product": 0,
+    "production": 2900.4876178292016
+}, {
+    "time": 1625108716,
+    "product": 0,
+    "production": 2914.5236210485436
+}, {
+    "time": 1625113617,
+    "product": 0,
+    "production": 2932.5592707241885
+}, {
+    "time": 1625118499,
+    "product": 0,
+    "production": 2957.7921420579987
+}, {
+    "time": 1625123482,
+    "product": 0,
+    "production": 2973.2799555548654
+}, {
+    "time": 1625128718,
+    "product": 0,
+    "production": 2990.901509630326
+}, {
+    "time": 1625133494,
+    "product": 0,
+    "production": 3027.13723716714
+}, {
+    "time": 1625138617,
+    "product": 0,
+    "production": 3038.393596316275
+}, {
+    "time": 1625143796,
+    "product": 0,
+    "production": 3055.500910341734
+}, {
+    "time": 1625148606,
+    "product": 0,
+    "production": 3080.985111678658
+}, {
+    "time": 1625153666,
+    "product": 0,
+    "production": 3096.046413792342
+}, {
+    "time": 1625158751,
+    "product": 0,
+    "production": 3126.565169258936
+}, {
+    "time": 1625163715,
+    "product": 0,
+    "production": 3139.955474923283
+}, {
+    "time": 1625168599,
+    "product": 0,
+    "production": 3155.6041088054812
+}, {
+    "time": 1625173576,
+    "product": 0,
+    "production": 3171.9290328500992
+}, {
+    "time": 1625178747,
+    "product": 0,
+    "production": 3196.5462611017233
+}, {
+    "time": 1625183574,
+    "product": 0,
+    "production": 3212.3088985792165
+}, {
+    "time": 1625188440,
+    "product": 0,
+    "production": 3240.93488754337
+}, {
+    "time": 1625193557,
+    "product": 0,
+    "production": 3250.1519645788985
+}, {
+    "time": 1625198522,
+    "product": 0,
+    "production": 3282.9814338796036
+}, {
+    "time": 1625203557,
+    "product": 0,
+    "production": 3307.761503781134
+}, {
+    "time": 1625208586,
+    "product": 0,
+    "production": 3320.6152038517375
+}, {
+    "time": 1625213544,
+    "product": 0,
+    "production": 3342.017859081876
+}, {
+    "time": 1625218587,
+    "product": 0,
+    "production": 3353.5167932346403
+}, {
+    "time": 1625223584,
+    "product": 0,
+    "production": 3378.229305716386
+}, {
+    "time": 1625228506,
+    "product": 0,
+    "production": 3394.2072988929162
+}, {
+    "time": 1625233475,
+    "product": 0,
+    "production": 3423.8231166898436
+}, {
+    "time": 1625238615,
+    "product": 0,
+    "production": 3441.6240900131593
+}, {
+    "time": 1625243580,
+    "product": 0,
+    "production": 3462.5571376587127
+}, {
+    "time": 1625248386,
+    "product": 0,
+    "production": 3480.601665798589
+}, {
+    "time": 1625253638,
+    "product": 0,
+    "production": 3501.8502946971016
+}, {
+    "time": 1625258629,
+    "product": 0,
+    "production": 3519.6501424374665
+}, {
+    "time": 1625263647,
+    "product": 0,
+    "production": 3537.59689141643
+}, {
+    "time": 1625268574,
+    "product": 0,
+    "production": 3553.5025083362975
+}, {
+    "time": 1625273769,
+    "product": 0,
+    "production": 3581.707666106999
+}, {
+    "time": 1625278479,
+    "product": 0,
+    "production": 3590.8198995211096
+}, {
+    "time": 1625283509,
+    "product": 0,
+    "production": 3621.725711547149
+}, {
+    "time": 1625288591,
+    "product": 0,
+    "production": 3642.1847636451835
+}, {
+    "time": 1625293478,
+    "product": 0,
+    "production": 3658.466951620735
+}, {
+    "time": 1625298704,
+    "product": 0,
+    "production": 3678.3436712097973
+}, {
+    "time": 1625303552,
+    "product": 0,
+    "production": 3693.803651724566
+}, {
+    "time": 1625308649,
+    "product": 0,
+    "production": 3713.4263305233367
+}, {
+    "time": 1625313579,
+    "product": 0,
+    "production": 3742.2745073481115
+}, {
+    "time": 1625318454,
+    "product": 0,
+    "production": 3764.6490695336856
+}, {
+    "time": 1625323739,
+    "product": 0,
+    "production": 3773.031932378879
+}, {
+    "time": 1625328539,
+    "product": 0,
+    "production": 3802.3637518435653
+}, {
+    "time": 1625333598,
+    "product": 0,
+    "production": 3820.3861349463295
+}, {
+    "time": 1625338511,
+    "product": 0,
+    "production": 3847.281620092393
+}, {
+    "time": 1625343606,
+    "product": 0,
+    "production": 3848.820570271078
+}, {
+    "time": 1625348654,
+    "product": 0,
+    "production": 3880.398144356378
+}, {
+    "time": 1625353486,
+    "product": 0,
+    "production": 3902.931927354254
+}, {
+    "time": 1625358692,
+    "product": 0,
+    "production": 3915.781224639846
+}, {
+    "time": 1625363514,
+    "product": 0,
+    "production": 3926.099723575261
+}, {
+    "time": 1625368625,
+    "product": 0,
+    "production": 3958.4049710642603
+}, {
+    "time": 1625373738,
+    "product": 0,
+    "production": 3983.0115125891048
+}, {
+    "time": 1625378555,
+    "product": 0,
+    "production": 4004.426329350503
+}, {
+    "time": 1625383684,
+    "product": 0,
+    "production": 4013.763748463964
+}, {
+    "time": 1625388740,
+    "product": 0,
+    "production": 4039.737765272437
+}, {
+    "time": 1625393763,
+    "product": 0,
+    "production": 4065.4270127541727
+}, {
+    "time": 1625398474,
+    "product": 0,
+    "production": 4075.911879587775
+}, {
+    "time": 1625403608,
+    "product": 0,
+    "production": 4098.899632261639
+}, {
+    "time": 1625408531,
+    "product": 0,
+    "production": 4122.543924182139
+}, {
+    "time": 1625413628,
+    "product": 0,
+    "production": 4139.420395022834
+}, {
+    "time": 1625418543,
+    "product": 0,
+    "production": 4162.668515111455
+}, {
+    "time": 1625423607,
+    "product": 0,
+    "production": 4178.396689356056
+}, {
+    "time": 1625428556,
+    "product": 0,
+    "production": 4197.010998990786
+}, {
+    "time": 1625433400,
+    "product": 0,
+    "production": 4218.379163878024
+}, {
+    "time": 1625438693,
+    "product": 0,
+    "production": 4238.978672158778
+}, {
+    "time": 1625443498,
+    "product": 0,
+    "production": 4259.068050482171
+}, {
+    "time": 1625448597,
+    "product": 0,
+    "production": 4279.404891613885
+}, {
+    "time": 1625453568,
+    "product": 0,
+    "production": 4302.949781984523
+}, {
+    "time": 1625458736,
+    "product": 0,
+    "production": 4310.718171410741
+}, {
+    "time": 1625463704,
+    "product": 0,
+    "production": 4335.083995009929
+}, {
+    "time": 1625468619,
+    "product": 0,
+    "production": 4358.338762278128
+}, {
+    "time": 1625473593,
+    "product": 0,
+    "production": 4380.825056069042
+}, {
+    "time": 1625478551,
+    "product": 0,
+    "production": 4401.460091588332
+}, {
+    "time": 1625483436,
+    "product": 0,
+    "production": 4424.88962933243
+}, {
+    "time": 1625488562,
+    "product": 0,
+    "production": 4439.386889038877
+}, {
+    "time": 1625493627,
+    "product": 0,
+    "production": 4454.356416114907
+}, {
+    "time": 1625498557,
+    "product": 0,
+    "production": 4479.286699543312
+}, {
+    "time": 1625503572,
+    "product": 0,
+    "production": 4495.82925467613
+}, {
+    "time": 1625508665,
+    "product": 0,
+    "production": 4525.325574110107
+}, {
+    "time": 1625513696,
+    "product": 0,
+    "production": 4540.943410190657
+}, {
+    "time": 1625518527,
+    "product": 0,
+    "production": 4559.47772055114
+}, {
+    "time": 1625523543,
+    "product": 0,
+    "production": 4577.269322853603
+}, {
+    "time": 1625528620,
+    "product": 0,
+    "production": 4600.408653750884
+}, {
+    "time": 1625533425,
+    "product": 0,
+    "production": 4622.74887079118
+}, {
+    "time": 1625538435,
+    "product": 0,
+    "production": 4642.968796425163
+}, {
+    "time": 1625543504,
+    "product": 0,
+    "production": 4657.807716727391
+}, {
+    "time": 1625548611,
+    "product": 0,
+    "production": 4678.422339667744
+}, {
+    "time": 1625553613,
+    "product": 0,
+    "production": 4699.555613137057
+}, {
+    "time": 1625558628,
+    "product": 0,
+    "production": 4730.412033455766
+}, {
+    "time": 1625563593,
+    "product": 0,
+    "production": 4748.407533061435
+}, {
+    "time": 1625568571,
+    "product": 0,
+    "production": 4764.2761797403855
+}, {
+    "time": 1625573578,
+    "product": 0,
+    "production": 4772.863916039967
+}, {
+    "time": 1625578625,
+    "product": 0,
+    "production": 4799.94119761901
+}, {
+    "time": 1625583571,
+    "product": 0,
+    "production": 4814.511846962482
+}, {
+    "time": 1625588562,
+    "product": 0,
+    "production": 4833.120311853233
+}, {
+    "time": 1625593593,
+    "product": 0,
+    "production": 4866.424735155414
+}, {
+    "time": 1625598555,
+    "product": 0,
+    "production": 4876.481045967128
+}, {
+    "time": 1625603487,
+    "product": 0,
+    "production": 4901.218797805499
+}, {
+    "time": 1625608629,
+    "product": 0,
+    "production": 4918.8251097444745
+}, {
+    "time": 1625613695,
+    "product": 0,
+    "production": 4937.065357224856
+}, {
+    "time": 1625618631,
+    "product": 0,
+    "production": 4955.9442332654335
+}, {
+    "time": 1625623458,
+    "product": 0,
+    "production": 4971.212420681875
+}, {
+    "time": 1625628676,
+    "product": 0,
+    "production": 4997.87460271855
+}, {
+    "time": 1625633548,
+    "product": 0,
+    "production": 5025.811176129876
+}, {
+    "time": 1625638585,
+    "product": 0,
+    "production": 5042.714637432635
+}, {
+    "time": 1625643630,
+    "product": 0,
+    "production": 5046.298654859351
+}, {
+    "time": 1625648693,
+    "product": 0,
+    "production": 5080.0127284890705
+}, {
+    "time": 1625653655,
+    "product": 0,
+    "production": 5093.3872023942395
+}, {
+    "time": 1625658639,
+    "product": 0,
+    "production": 5120.379592330766
+}, {
+    "time": 1625663522,
+    "product": 0,
+    "production": 5137.398036170518
+}, {
+    "time": 1625668686,
+    "product": 0,
+    "production": 5161.4944459366925
+}, {
+    "time": 1625673610,
+    "product": 0,
+    "production": 5173.871028451135
+}, {
+    "time": 1625678459,
+    "product": 0,
+    "production": 5196.223014630978
+}, {
+    "time": 1625683601,
+    "product": 0,
+    "production": 5216.756883128286
+}, {
+    "time": 1625688690,
+    "product": 0,
+    "production": 5233.590980255999
+}, {
+    "time": 1625693492,
+    "product": 0,
+    "production": 5260.731241475268
+}, {
+    "time": 1625698706,
+    "product": 0,
+    "production": 5281.49194550401
+}, {
+    "time": 1625703584,
+    "product": 0,
+    "production": 5298.010625478729
+}, {
+    "time": 1625708507,
+    "product": 0,
+    "production": 5310.966256881797
+}, {
+    "time": 1625713660,
+    "product": 0,
+    "production": 5339.406023226363
+}, {
+    "time": 1625718753,
+    "product": 0,
+    "production": 5358.934210798222
+}, {
+    "time": 1625723671,
+    "product": 0,
+    "production": 5384.087492265319
+}, {
+    "time": 1625728565,
+    "product": 0,
+    "production": 5392.5921500070035
+}, {
+    "time": 1625733659,
+    "product": 0,
+    "production": 5420.819306517954
+}, {
+    "time": 1625738647,
+    "product": 0,
+    "production": 5443.116201380835
+}, {
+    "time": 1625743412,
+    "product": 0,
+    "production": 5450.606152130337
+}, {
+    "time": 1625748557,
+    "product": 0,
+    "production": 5482.460424676366
+}, {
+    "time": 1625753519,
+    "product": 0,
+    "production": 5492.52344013399
+}, {
+    "time": 1625758710,
+    "product": 0,
+    "production": 5523.107039788935
+}, {
+    "time": 1625763716,
+    "product": 0,
+    "production": 5539.753549417046
+}, {
+    "time": 1625768436,
+    "product": 0,
+    "production": 5558.785999487291
+}, {
+    "time": 1625773751,
+    "product": 0,
+    "production": 5583.039783577626
+}, {
+    "time": 1625778562,
+    "product": 0,
+    "production": 5593.438753958232
+}, {
+    "time": 1625783604,
+    "product": 0,
+    "production": 5620.762776681956
+}, {
+    "time": 1625788541,
+    "product": 0,
+    "production": 5636.330695744622
+}, {
+    "time": 1625793542,
+    "product": 0,
+    "production": 5662.928552033004
+}, {
+    "time": 1625798634,
+    "product": 0,
+    "production": 5681.96213323048
+}, {
+    "time": 1625803750,
+    "product": 0,
+    "production": 5702.072883640631
+}, {
+    "time": 1625808705,
+    "product": 0,
+    "production": 5721.038186289821
+}, {
+    "time": 1625813711,
+    "product": 0,
+    "production": 5729.258370646803
+}, {
+    "time": 1624378577,
+    "product": 1,
+    "production": 7.1646233636807
+}, {
+    "time": 1624383524,
+    "product": 1,
+    "production": 13.122035182560696
+}, {
+    "time": 1624388463,
+    "product": 1,
+    "production": 45.29995993801964
+}, {
+    "time": 1624393524,
+    "product": 1,
+    "production": 55.253968016874715
+}, {
+    "time": 1624398513,
+    "product": 1,
+    "production": 75.23031042635178
+}, {
+    "time": 1624403534,
+    "product": 1,
+    "production": 99.51532509221725
+}, {
+    "time": 1624408671,
+    "product": 1,
+    "production": 129.11551059849484
+}, {
+    "time": 1624413606,
+    "product": 1,
+    "production": 151.22311475432738
+}, {
+    "time": 1624418775,
+    "product": 1,
+    "production": 173.37242833684564
+}, {
+    "time": 1624423599,
+    "product": 1,
+    "production": 175.08700172755806
+}, {
+    "time": 1624428592,
+    "product": 1,
+    "production": 196.26281822536933
+}, {
+    "time": 1624433797,
+    "product": 1,
+    "production": 215.0981459380894
+}, {
+    "time": 1624438731,
+    "product": 1,
+    "production": 243.20734141249235
+}, {
+    "time": 1624443623,
+    "product": 1,
+    "production": 265.98390657638754
+}, {
+    "time": 1624448583,
+    "product": 1,
+    "production": 277.2503142333045
+}, {
+    "time": 1624453532,
+    "product": 1,
+    "production": 299.3642995446332
+}, {
+    "time": 1624458539,
+    "product": 1,
+    "production": 325.8915611071364
+}, {
+    "time": 1624463441,
+    "product": 1,
+    "production": 340.6026969299993
+}, {
+    "time": 1624468667,
+    "product": 1,
+    "production": 358.97649612011685
+}, {
+    "time": 1624473655,
+    "product": 1,
+    "production": 376.4212082563522
+}, {
+    "time": 1624478642,
+    "product": 1,
+    "production": 400.2941877257084
+}, {
+    "time": 1624483555,
+    "product": 1,
+    "production": 415.1280121489368
+}, {
+    "time": 1624488553,
+    "product": 1,
+    "production": 440.906009748829
+}, {
+    "time": 1624493645,
+    "product": 1,
+    "production": 463.87752762203905
+}, {
+    "time": 1624498761,
+    "product": 1,
+    "production": 482.9561194425074
+}, {
+    "time": 1624503522,
+    "product": 1,
+    "production": 505.1651253502238
+}, {
+    "time": 1624508691,
+    "product": 1,
+    "production": 512.0946759732662
+}, {
+    "time": 1624513698,
+    "product": 1,
+    "production": 540.7545946316058
+}, {
+    "time": 1624518414,
+    "product": 1,
+    "production": 558.3206307450602
+}, {
+    "time": 1624523420,
+    "product": 1,
+    "production": 570.6019403061327
+}, {
+    "time": 1624528783,
+    "product": 1,
+    "production": 605.8628845434544
+}, {
+    "time": 1624533639,
+    "product": 1,
+    "production": 618.6803061541485
+}, {
+    "time": 1624538595,
+    "product": 1,
+    "production": 637.6669082690472
+}, {
+    "time": 1624543445,
+    "product": 1,
+    "production": 663.5887262265258
+}, {
+    "time": 1624548500,
+    "product": 1,
+    "production": 691.3259469040951
+}, {
+    "time": 1624553464,
+    "product": 1,
+    "production": 702.8357275471633
+}, {
+    "time": 1624558594,
+    "product": 1,
+    "production": 720.0037170993287
+}, {
+    "time": 1624563489,
+    "product": 1,
+    "production": 747.4132880398116
+}, {
+    "time": 1624568555,
+    "product": 1,
+    "production": 761.4974869169632
+}, {
+    "time": 1624573539,
+    "product": 1,
+    "production": 791.3522064869754
+}, {
+    "time": 1624578620,
+    "product": 1,
+    "production": 790.1246863112182
+}, {
+    "time": 1624583550,
+    "product": 1,
+    "production": 819.1753283725793
+}, {
+    "time": 1624588676,
+    "product": 1,
+    "production": 835.5222923993306
+}, {
+    "time": 1624593468,
+    "product": 1,
+    "production": 861.7592377649377
+}, {
+    "time": 1624598751,
+    "product": 1,
+    "production": 883.3314882674498
+}, {
+    "time": 1624603537,
+    "product": 1,
+    "production": 898.0529963431809
+}, {
+    "time": 1624608605,
+    "product": 1,
+    "production": 915.3711784564923
+}, {
+    "time": 1624613819,
+    "product": 1,
+    "production": 941.318417034191
+}, {
+    "time": 1624618391,
+    "product": 1,
+    "production": 965.5520683527452
+}, {
+    "time": 1624623691,
+    "product": 1,
+    "production": 990.5781281376201
+}, {
+    "time": 1624628551,
+    "product": 1,
+    "production": 1001.6478884227662
+}, {
+    "time": 1624633596,
+    "product": 1,
+    "production": 1019.1914505091789
+}, {
+    "time": 1624638501,
+    "product": 1,
+    "production": 1039.896469034465
+}, {
+    "time": 1624643828,
+    "product": 1,
+    "production": 1068.975744693292
+}, {
+    "time": 1624648462,
+    "product": 1,
+    "production": 1078.9799378588177
+}, {
+    "time": 1624653569,
+    "product": 1,
+    "production": 1098.3289938272867
+}, {
+    "time": 1624658512,
+    "product": 1,
+    "production": 1114.71961236887
+}, {
+    "time": 1624663597,
+    "product": 1,
+    "production": 1140.3172814170111
+}, {
+    "time": 1624668642,
+    "product": 1,
+    "production": 1160.7744927573015
+}, {
+    "time": 1624673546,
+    "product": 1,
+    "production": 1194.621877334405
+}, {
+    "time": 1624678446,
+    "product": 1,
+    "production": 1203.4087598246497
+}, {
+    "time": 1624683427,
+    "product": 1,
+    "production": 1217.590390275785
+}, {
+    "time": 1624688454,
+    "product": 1,
+    "production": 1249.1042843292535
+}, {
+    "time": 1624693673,
+    "product": 1,
+    "production": 1263.175912804899
+}, {
+    "time": 1624698667,
+    "product": 1,
+    "production": 1277.8804535834063
+}, {
+    "time": 1624703687,
+    "product": 1,
+    "production": 1301.8892588579165
+}, {
+    "time": 1624708480,
+    "product": 1,
+    "production": 1319.811677628503
+}, {
+    "time": 1624713609,
+    "product": 1,
+    "production": 1345.8565252302733
+}, {
+    "time": 1624718399,
+    "product": 1,
+    "production": 1363.5034814180522
+}, {
+    "time": 1624723677,
+    "product": 1,
+    "production": 1380.5151581095693
+}, {
+    "time": 1624728630,
+    "product": 1,
+    "production": 1398.1880043513447
+}, {
+    "time": 1624733585,
+    "product": 1,
+    "production": 1410.1278093332605
+}, {
+    "time": 1624738532,
+    "product": 1,
+    "production": 1436.1189470135153
+}, {
+    "time": 1624743546,
+    "product": 1,
+    "production": 1455.2755837070677
+}, {
+    "time": 1624748547,
+    "product": 1,
+    "production": 1473.748412092859
+}, {
+    "time": 1624753599,
+    "product": 1,
+    "production": 1493.791780052133
+}, {
+    "time": 1624758508,
+    "product": 1,
+    "production": 1520.8806650747563
+}, {
+    "time": 1624763766,
+    "product": 1,
+    "production": 1531.6479118651694
+}, {
+    "time": 1624768552,
+    "product": 1,
+    "production": 1561.7079563340685
+}, {
+    "time": 1624773731,
+    "product": 1,
+    "production": 1577.1608390611807
+}, {
+    "time": 1624778660,
+    "product": 1,
+    "production": 1597.817945432531
+}, {
+    "time": 1624783737,
+    "product": 1,
+    "production": 1614.201668131142
+}, {
+    "time": 1624788568,
+    "product": 1,
+    "production": 1630.691303128764
+}, {
+    "time": 1624793505,
+    "product": 1,
+    "production": 1662.3469544505356
+}, {
+    "time": 1624798488,
+    "product": 1,
+    "production": 1681.2306114686992
+}, {
+    "time": 1624803494,
+    "product": 1,
+    "production": 1699.500946477536
+}, {
+    "time": 1624808661,
+    "product": 1,
+    "production": 1723.270900945994
+}, {
+    "time": 1624813603,
+    "product": 1,
+    "production": 1741.6375887118522
+}, {
+    "time": 1624818473,
+    "product": 1,
+    "production": 1756.1476430085524
+}, {
+    "time": 1624823778,
+    "product": 1,
+    "production": 1776.4124618975186
+}, {
+    "time": 1624828560,
+    "product": 1,
+    "production": 1803.4452889034017
+}, {
+    "time": 1624833684,
+    "product": 1,
+    "production": 1815.5594253917668
+}, {
+    "time": 1624838627,
+    "product": 1,
+    "production": 1846.326623028723
+}, {
+    "time": 1624843674,
+    "product": 1,
+    "production": 1856.511337545768
+}, {
+    "time": 1624848834,
+    "product": 1,
+    "production": 1882.8545424548802
+}, {
+    "time": 1624853468,
+    "product": 1,
+    "production": 1904.6239221664505
+}, {
+    "time": 1624858551,
+    "product": 1,
+    "production": 1915.9567830101657
+}, {
+    "time": 1624863649,
+    "product": 1,
+    "production": 1939.6440059234885
+}, {
+    "time": 1624868724,
+    "product": 1,
+    "production": 1966.1441355937088
+}, {
+    "time": 1624873534,
+    "product": 1,
+    "production": 1992.9951471603422
+}, {
+    "time": 1624878725,
+    "product": 1,
+    "production": 1997.465941396913
+}, {
+    "time": 1624883602,
+    "product": 1,
+    "production": 2016.7264600460037
+}, {
+    "time": 1624888611,
+    "product": 1,
+    "production": 2039.7072943613564
+}, {
+    "time": 1624893595,
+    "product": 1,
+    "production": 2055.0044438581863
+}, {
+    "time": 1624898442,
+    "product": 1,
+    "production": 2077.8966170599733
+}, {
+    "time": 1624903489,
+    "product": 1,
+    "production": 2099.2215485591096
+}, {
+    "time": 1624908433,
+    "product": 1,
+    "production": 2115.408921497851
+}, {
+    "time": 1624913421,
+    "product": 1,
+    "production": 2142.625785960926
+}, {
+    "time": 1624918581,
+    "product": 1,
+    "production": 2156.457926084441
+}, {
+    "time": 1624923470,
+    "product": 1,
+    "production": 2178.6036715353916
+}, {
+    "time": 1624928546,
+    "product": 1,
+    "production": 2208.4201225835627
+}, {
+    "time": 1624933462,
+    "product": 1,
+    "production": 2215.274667039521
+}, {
+    "time": 1624938660,
+    "product": 1,
+    "production": 2244.458318223617
+}, {
+    "time": 1624943739,
+    "product": 1,
+    "production": 2250.302394221104
+}, {
+    "time": 1624948775,
+    "product": 1,
+    "production": 2279.3705605357436
+}, {
+    "time": 1624953551,
+    "product": 1,
+    "production": 2293.7365957643087
+}, {
+    "time": 1624958494,
+    "product": 1,
+    "production": 2317.808964800895
+}, {
+    "time": 1624963747,
+    "product": 1,
+    "production": 2342.7287090171512
+}, {
+    "time": 1624968667,
+    "product": 1,
+    "production": 2359.6933828814713
+}, {
+    "time": 1624973539,
+    "product": 1,
+    "production": 2379.2028347020723
+}, {
+    "time": 1624978438,
+    "product": 1,
+    "production": 2405.2265565616813
+}, {
+    "time": 1624983548,
+    "product": 1,
+    "production": 2414.750652408019
+}, {
+    "time": 1624988586,
+    "product": 1,
+    "production": 2451.76608028887
+}, {
+    "time": 1624993550,
+    "product": 1,
+    "production": 2458.627920479575
+}, {
+    "time": 1624998750,
+    "product": 1,
+    "production": 2478.655563794315
+}, {
+    "time": 1625003603,
+    "product": 1,
+    "production": 2503.7967167300467
+}, {
+    "time": 1625008677,
+    "product": 1,
+    "production": 2532.4183935272804
+}, {
+    "time": 1625013747,
+    "product": 1,
+    "production": 2534.5916445741677
+}, {
+    "time": 1625018473,
+    "product": 1,
+    "production": 2571.8179648531336
+}, {
+    "time": 1625023613,
+    "product": 1,
+    "production": 2576.5016703287147
+}, {
+    "time": 1625028558,
+    "product": 1,
+    "production": 2602.071915362515
+}, {
+    "time": 1625033497,
+    "product": 1,
+    "production": 2627.6909979255147
+}, {
+    "time": 1625038644,
+    "product": 1,
+    "production": 2637.718408294457
+}, {
+    "time": 1625043549,
+    "product": 1,
+    "production": 2659.108173160327
+}, {
+    "time": 1625048496,
+    "product": 1,
+    "production": 2674.84528059114
+}, {
+    "time": 1625053648,
+    "product": 1,
+    "production": 2710.293170052637
+}, {
+    "time": 1625058667,
+    "product": 1,
+    "production": 2723.065158072158
+}, {
+    "time": 1625063638,
+    "product": 1,
+    "production": 2733.5316778669626
+}, {
+    "time": 1625068772,
+    "product": 1,
+    "production": 2759.641110356332
+}, {
+    "time": 1625073539,
+    "product": 1,
+    "production": 2777.4307183362953
+}, {
+    "time": 1625078751,
+    "product": 1,
+    "production": 2797.192574994022
+}, {
+    "time": 1625083667,
+    "product": 1,
+    "production": 2823.4545985204345
+}, {
+    "time": 1625088712,
+    "product": 1,
+    "production": 2833.3180166680054
+}, {
+    "time": 1625093483,
+    "product": 1,
+    "production": 2857.9022381515374
+}, {
+    "time": 1625098637,
+    "product": 1,
+    "production": 2890.5169941303216
+}, {
+    "time": 1625103679,
+    "product": 1,
+    "production": 2903.2397696352823
+}, {
+    "time": 1625108666,
+    "product": 1,
+    "production": 2920.633280473649
+}, {
+    "time": 1625113389,
+    "product": 1,
+    "production": 2942.660390462726
+}, {
+    "time": 1625118550,
+    "product": 1,
+    "production": 2962.064037853992
+}, {
+    "time": 1625123653,
+    "product": 1,
+    "production": 2980.635277375451
+}, {
+    "time": 1625128647,
+    "product": 1,
+    "production": 3001.674951547212
+}, {
+    "time": 1625133597,
+    "product": 1,
+    "production": 3009.3411484393187
+}, {
+    "time": 1625138535,
+    "product": 1,
+    "production": 3046.0231954299275
+}, {
+    "time": 1625143499,
+    "product": 1,
+    "production": 3058.4171395015405
+}, {
+    "time": 1625148509,
+    "product": 1,
+    "production": 3082.179219384305
+}, {
+    "time": 1625153653,
+    "product": 1,
+    "production": 3091.961618806536
+}, {
+    "time": 1625158628,
+    "product": 1,
+    "production": 3123.842082846143
+}, {
+    "time": 1625163623,
+    "product": 1,
+    "production": 3133.4830422820287
+}, {
+    "time": 1625168623,
+    "product": 1,
+    "production": 3165.2737450574687
+}, {
+    "time": 1625173454,
+    "product": 1,
+    "production": 3178.3316284426187
+}, {
+    "time": 1625178761,
+    "product": 1,
+    "production": 3205.6565406263926
+}, {
+    "time": 1625183528,
+    "product": 1,
+    "production": 3221.208138832295
+}, {
+    "time": 1625188628,
+    "product": 1,
+    "production": 3237.9650787727455
+}, {
+    "time": 1625193457,
+    "product": 1,
+    "production": 3253.3642869714286
+}, {
+    "time": 1625198768,
+    "product": 1,
+    "production": 3278.7552986034148
+}, {
+    "time": 1625203782,
+    "product": 1,
+    "production": 3300.7980250935634
+}, {
+    "time": 1625208843,
+    "product": 1,
+    "production": 3320.1895002548667
+}, {
+    "time": 1625213529,
+    "product": 1,
+    "production": 3341.6213639698685
+}, {
+    "time": 1625218421,
+    "product": 1,
+    "production": 3362.679923812921
+}, {
+    "time": 1625223776,
+    "product": 1,
+    "production": 3383.5979564308996
+}, {
+    "time": 1625228639,
+    "product": 1,
+    "production": 3393.9643924718157
+}, {
+    "time": 1625233625,
+    "product": 1,
+    "production": 3420.532119170159
+}, {
+    "time": 1625238679,
+    "product": 1,
+    "production": 3445.082291802153
+}, {
+    "time": 1625243598,
+    "product": 1,
+    "production": 3456.766494027724
+}, {
+    "time": 1625248586,
+    "product": 1,
+    "production": 3486.722991538793
+}, {
+    "time": 1625253652,
+    "product": 1,
+    "production": 3499.0737732379457
+}, {
+    "time": 1625258585,
+    "product": 1,
+    "production": 3525.517585908986
+}, {
+    "time": 1625263525,
+    "product": 1,
+    "production": 3552.9873046310136
+}, {
+    "time": 1625268533,
+    "product": 1,
+    "production": 3567.122072786673
+}, {
+    "time": 1625273686,
+    "product": 1,
+    "production": 3580.104620580357
+}, {
+    "time": 1625278825,
+    "product": 1,
+    "production": 3599.472943009724
+}, {
+    "time": 1625283474,
+    "product": 1,
+    "production": 3615.945383311552
+}, {
+    "time": 1625288593,
+    "product": 1,
+    "production": 3639.610717716305
+}, {
+    "time": 1625293726,
+    "product": 1,
+    "production": 3662.0834986479053
+}, {
+    "time": 1625298656,
+    "product": 1,
+    "production": 3683.3844985516175
+}, {
+    "time": 1625303643,
+    "product": 1,
+    "production": 3708.278652479121
+}, {
+    "time": 1625308667,
+    "product": 1,
+    "production": 3717.735361358291
+}, {
+    "time": 1625313621,
+    "product": 1,
+    "production": 3734.3041020320024
+}, {
+    "time": 1625318582,
+    "product": 1,
+    "production": 3764.610190238229
+}, {
+    "time": 1625323792,
+    "product": 1,
+    "production": 3774.795234668739
+}, {
+    "time": 1625328538,
+    "product": 1,
+    "production": 3807.1522362072724
+}, {
+    "time": 1625333403,
+    "product": 1,
+    "production": 3811.771921273984
+}, {
+    "time": 1625338596,
+    "product": 1,
+    "production": 3828.589536273104
+}, {
+    "time": 1625343449,
+    "product": 1,
+    "production": 3856.40708185868
+}, {
+    "time": 1625348568,
+    "product": 1,
+    "production": 3877.5638501036406
+}, {
+    "time": 1625353677,
+    "product": 1,
+    "production": 3909.2025921606373
+}, {
+    "time": 1625358479,
+    "product": 1,
+    "production": 3919.0487937769744
+}, {
+    "time": 1625363536,
+    "product": 1,
+    "production": 3949.306851298301
+}, {
+    "time": 1625368524,
+    "product": 1,
+    "production": 3959.2237113037804
+}, {
+    "time": 1625373718,
+    "product": 1,
+    "production": 3985.4158661674433
+}, {
+    "time": 1625378677,
+    "product": 1,
+    "production": 3993.678021901086
+}, {
+    "time": 1625383534,
+    "product": 1,
+    "production": 4023.7266925397707
+}, {
+    "time": 1625388703,
+    "product": 1,
+    "production": 4042.608382980122
+}, {
+    "time": 1625393638,
+    "product": 1,
+    "production": 4059.916501363032
+}, {
+    "time": 1625398502,
+    "product": 1,
+    "production": 4083.196293399692
+}, {
+    "time": 1625403627,
+    "product": 1,
+    "production": 4107.090747260697
+}, {
+    "time": 1625408667,
+    "product": 1,
+    "production": 4115.0421989999095
+}, {
+    "time": 1625413692,
+    "product": 1,
+    "production": 4140.636398922441
+}, {
+    "time": 1625418479,
+    "product": 1,
+    "production": 4163.380159936537
+}, {
+    "time": 1625423621,
+    "product": 1,
+    "production": 4174.895787922026
+}, {
+    "time": 1625428574,
+    "product": 1,
+    "production": 4195.783226723694
+}, {
+    "time": 1625433460,
+    "product": 1,
+    "production": 4217.886420272449
+}, {
+    "time": 1625438555,
+    "product": 1,
+    "production": 4237.239271945937
+}, {
+    "time": 1625443501,
+    "product": 1,
+    "production": 4269.03960526534
+}, {
+    "time": 1625448649,
+    "product": 1,
+    "production": 4283.8702583449485
+}, {
+    "time": 1625453471,
+    "product": 1,
+    "production": 4297.4607913176715
+}, {
+    "time": 1625458715,
+    "product": 1,
+    "production": 4318.42430617036
+}, {
+    "time": 1625463777,
+    "product": 1,
+    "production": 4350.124011342732
+}, {
+    "time": 1625468552,
+    "product": 1,
+    "production": 4362.258738156994
+}, {
+    "time": 1625473450,
+    "product": 1,
+    "production": 4374.036470020964
+}, {
+    "time": 1625478611,
+    "product": 1,
+    "production": 4397.526582493193
+}, {
+    "time": 1625483492,
+    "product": 1,
+    "production": 4422.963745830327
+}, {
+    "time": 1625488769,
+    "product": 1,
+    "production": 4443.820245984724
+}, {
+    "time": 1625493588,
+    "product": 1,
+    "production": 4459.883484776954
+}, {
+    "time": 1625498709,
+    "product": 1,
+    "production": 4482.2486434971315
+}, {
+    "time": 1625503606,
+    "product": 1,
+    "production": 4493.461580097029
+}, {
+    "time": 1625508717,
+    "product": 1,
+    "production": 4516.543161628763
+}, {
+    "time": 1625513587,
+    "product": 1,
+    "production": 4541.678431641955
+}, {
+    "time": 1625518492,
+    "product": 1,
+    "production": 4555.202007670971
+}, {
+    "time": 1625523630,
+    "product": 1,
+    "production": 4579.424265170734
+}, {
+    "time": 1625528481,
+    "product": 1,
+    "production": 4604.838830548717
+}, {
+    "time": 1625533629,
+    "product": 1,
+    "production": 4615.748232150435
+}, {
+    "time": 1625538696,
+    "product": 1,
+    "production": 4639.520057039184
+}, {
+    "time": 1625543549,
+    "product": 1,
+    "production": 4664.373812877762
+}, {
+    "time": 1625548494,
+    "product": 1,
+    "production": 4677.683736497058
+}, {
+    "time": 1625553654,
+    "product": 1,
+    "production": 4696.610803242097
+}, {
+    "time": 1625558571,
+    "product": 1,
+    "production": 4722.067006774532
+}, {
+    "time": 1625563782,
+    "product": 1,
+    "production": 4737.596900904462
+}, {
+    "time": 1625568501,
+    "product": 1,
+    "production": 4760.2335261261
+}, {
+    "time": 1625573509,
+    "product": 1,
+    "production": 4786.340139300612
+}, {
+    "time": 1625578611,
+    "product": 1,
+    "production": 4804.511698906223
+}, {
+    "time": 1625583671,
+    "product": 1,
+    "production": 4820.823926418494
+}, {
+    "time": 1625588737,
+    "product": 1,
+    "production": 4850.341795021316
+}, {
+    "time": 1625593721,
+    "product": 1,
+    "production": 4864.9218861805275
+}, {
+    "time": 1625598559,
+    "product": 1,
+    "production": 4882.10826674332
+}, {
+    "time": 1625603379,
+    "product": 1,
+    "production": 4901.146022448646
+}, {
+    "time": 1625608607,
+    "product": 1,
+    "production": 4919.9617197959715
+}, {
+    "time": 1625613435,
+    "product": 1,
+    "production": 4942.893958490162
+}, {
+    "time": 1625618704,
+    "product": 1,
+    "production": 4953.951997527491
+}, {
+    "time": 1625623533,
+    "product": 1,
+    "production": 4975.4543891267485
+}, {
+    "time": 1625628562,
+    "product": 1,
+    "production": 5004.482280062517
+}, {
+    "time": 1625633471,
+    "product": 1,
+    "production": 5016.783193074325
+}, {
+    "time": 1625638310,
+    "product": 1,
+    "production": 5037.271308071484
+}, {
+    "time": 1625643506,
+    "product": 1,
+    "production": 5058.790409015559
+}, {
+    "time": 1625648565,
+    "product": 1,
+    "production": 5082.994422601655
+}, {
+    "time": 1625653708,
+    "product": 1,
+    "production": 5106.265741377791
+}, {
+    "time": 1625658589,
+    "product": 1,
+    "production": 5114.069060789667
+}, {
+    "time": 1625663734,
+    "product": 1,
+    "production": 5138.915375954138
+}, {
+    "time": 1625668631,
+    "product": 1,
+    "production": 5170.11323133765
+}, {
+    "time": 1625673588,
+    "product": 1,
+    "production": 5177.338041545412
+}, {
+    "time": 1625678611,
+    "product": 1,
+    "production": 5198.171117338526
+}, {
+    "time": 1625683598,
+    "product": 1,
+    "production": 5225.357697888769
+}, {
+    "time": 1625688618,
+    "product": 1,
+    "production": 5244.020550661306
+}, {
+    "time": 1625693531,
+    "product": 1,
+    "production": 5255.449214482327
+}, {
+    "time": 1625698492,
+    "product": 1,
+    "production": 5276.517643080836
+}, {
+    "time": 1625703487,
+    "product": 1,
+    "production": 5292.444185091456
+}, {
+    "time": 1625708650,
+    "product": 1,
+    "production": 5321.823085638357
+}, {
+    "time": 1625713499,
+    "product": 1,
+    "production": 5345.378532242861
+}, {
+    "time": 1625718548,
+    "product": 1,
+    "production": 5359.584426357802
+}, {
+    "time": 1625723526,
+    "product": 1,
+    "production": 5370.923238493948
+}, {
+    "time": 1625728602,
+    "product": 1,
+    "production": 5390.828857858794
+}, {
+    "time": 1625733458,
+    "product": 1,
+    "production": 5416.66503736905
+}, {
+    "time": 1625738541,
+    "product": 1,
+    "production": 5443.540172131804
+}, {
+    "time": 1625743710,
+    "product": 1,
+    "production": 5459.073419672077
+}, {
+    "time": 1625748534,
+    "product": 1,
+    "production": 5470.282493383858
+}, {
+    "time": 1625753703,
+    "product": 1,
+    "production": 5501.290706729792
+}, {
+    "time": 1625758563,
+    "product": 1,
+    "production": 5517.4410317824995
+}, {
+    "time": 1625763755,
+    "product": 1,
+    "production": 5546.974412862917
+}, {
+    "time": 1625768568,
+    "product": 1,
+    "production": 5558.060477543547
+}, {
+    "time": 1625773520,
+    "product": 1,
+    "production": 5586.9420053509375
+}, {
+    "time": 1625778455,
+    "product": 1,
+    "production": 5602.579599098136
+}, {
+    "time": 1625783854,
+    "product": 1,
+    "production": 5616.442068633871
+}, {
+    "time": 1625788633,
+    "product": 1,
+    "production": 5642.900561028902
+}, {
+    "time": 1625793628,
+    "product": 1,
+    "production": 5668.467282865224
+}, {
+    "time": 1625798504,
+    "product": 1,
+    "production": 5676.675769334246
+}, {
+    "time": 1625803801,
+    "product": 1,
+    "production": 5704.680272024098
+}, {
+    "time": 1625808712,
+    "product": 1,
+    "production": 5720.399498438262
+}, {
+    "time": 1625813562,
+    "product": 1,
+    "production": 5741.211315767311
+}]

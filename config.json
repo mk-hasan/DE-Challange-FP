@@ -1,0 +1,9 @@
+{
+  "workorder_data": "workorder.json",
+  "metrics_data": "metrics.json",
+  "db_hostname":"127.0.0.1",
+  "db_port":5432,
+  "db_username":"postgres",
+  "db_password": "postgres1234",
+  "db_name": "demo"
+}
