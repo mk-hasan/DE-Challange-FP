@@ -1,8 +1,8 @@
-# Documentation(FactoryPal Task)
+# Documentation
 
 Project Structure
 
-    - FactoryPal-Task
+    - The-Task
         - src
             - consumer_client.py
             - producer_client.py
